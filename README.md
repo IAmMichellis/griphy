@@ -13,6 +13,7 @@ Make `secrets.py` project directory with the following contents:
 ```
 discord_bot_token = '<your-discord-bot-token>'
 giphy_app_token = '<your-giphy-api-token>'
+```
 
 # virtualenv
 
