@@ -1,7 +1,9 @@
+import secrets
+
 from discord.ext.commands import Bot
 import random
 
-token = 'Njk3NDQ2MjAxNTgyNDE5OTg4.Xo3Zhw.3N0yZl4MOLirxQoURbTFmQiwS3U'
+token = secrets.discord_bot_token
 bot = Bot(command_prefix='!')
 
 @bot.event
