@@ -11,6 +11,7 @@ Used this tutorial: https://www.maxongzb.com/serving-gifs-with-discord-bot-readi
 Setup:
 ```
 virtualenv --python=python3 venv
+python3 -m pip install -U discord.py
 ```
 Use:
 ```
