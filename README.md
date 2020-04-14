@@ -1,5 +1,7 @@
 # griphy
 
+(Unfinished - put on hold to start a birthday project...)
+
 
 Discord bot for slack-giphy-style giphy integration.
 
